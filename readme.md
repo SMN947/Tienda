@@ -33,3 +33,6 @@ Aplicacion para control de tiendas con control centralizado en una administracio
 - Fase 1: maquetado -> html? angular? react?
 - Fase 2: creacion de db -> MySql? mongo?
 - Fase 3: conexion a db -> node? php?
+
+# Recursos de interes
+- https://cocomaterial.com/
